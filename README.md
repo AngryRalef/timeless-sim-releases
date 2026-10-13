@@ -34,6 +34,10 @@ and when it changes to *Ready - click to reload*, click once more.
 button under it, then the chest icon next to your character on the
 dashboard.
 
+**Healers:** SimulationCraft simulates damage, not healing, so healer specs
+show as a greyed-out tab. For Restoration Druid and Shaman, Settings has a
+**beta** option to rank their gear by damage instead.
+
 ## Updates
 
 When a new version is out, the dashboard shows a banner -- click
