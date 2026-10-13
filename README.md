@@ -27,6 +27,9 @@ loads. Keep the black console window open while you play.
    simulation takes a few minutes; later ones only redo what changed.
 3. Do it again whenever you change gear, talents or spec.
 
+When your first results appear, a short tour shows you around the
+dashboard; the **?** button next to settings replays it.
+
 Right after login the button may read *Loading items...* -- click anyway,
 and when it changes to *Ready - click to reload*, click once more.
 
