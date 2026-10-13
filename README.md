@@ -15,8 +15,24 @@ This repository only holds the downloads.
 3. Double-click `timeless-sim.exe`. Windows may warn "Windows protected
    your PC" the first time: click "More info" -> "Run anyway".
 
-A dashboard opens in your browser; your gear is picked up automatically
-whenever you log in or `/reload` in game.
+A dashboard opens in your browser and lists anything left to set up. If
+WoW was running, exit it and start it again once so the companion addon
+loads. Keep the black console window open while you play.
+
+## Use
+
+1. In WoW, open your character sheet (`C`) and click **Sim & Reload**
+   under it (or type `/tsim`).
+2. Your UI reloads and the character shows up on the dashboard. The first
+   simulation takes a few minutes; later ones only redo what changed.
+3. Do it again whenever you change gear, talents or spec.
+
+Right after login the button may read *Loading items...* -- click anyway,
+and when it changes to *Ready - click to reload*, click once more.
+
+**Great Vault:** open the vault in-game and click the same **Sim & Reload**
+button under it, then the chest icon next to your character on the
+dashboard.
 
 ## Updates
 
