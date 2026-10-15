@@ -34,8 +34,9 @@ Right after login the button may read *Loading items...* -- click anyway,
 and when it changes to *Ready - click to reload*, click once more.
 
 **Great Vault:** open the vault in-game and click the same **Sim & Reload**
-button under it, then the chest icon next to your character on the
-dashboard.
+button under it. Your choices show up at the top of that build's
+Recommendations, compared side by side -- the one marked **Pick** is the one
+to take.
 
 **Healers:** SimulationCraft simulates damage, not healing, so healer specs
 show as a greyed-out tab. For Restoration Druid and Shaman, Settings has a
